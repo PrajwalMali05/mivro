@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T09:53:22.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="TZjx47iEwAoMT98tMH2t" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-12T09:54:49.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="o0YoMaiiHlLLavADM276" version="20.4.0" type="github" pages="2">
   <diagram id="sWcbRu70sIhl7bhhwNqO" name="Page-1">
     <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -105,16 +105,12 @@
         <mxCell id="Ib2bDxPXk9sH93nM67jP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ib2bDxPXk9sH93nM67jP-18" target="Ib2bDxPXk9sH93nM67jP-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ib2bDxPXk9sH93nM67jP-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;entryX=0.372;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="Ib2bDxPXk9sH93nM67jP-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;entryX=0.381;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="Ib2bDxPXk9sH93nM67jP-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="875.7157287525379" y="218.28427124746213" as="sourcePoint" />
             <mxPoint x="413.03999999999996" y="640" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="444" y="218" />
-              <mxPoint x="444" y="600" />
-              <mxPoint x="411" y="600" />
-              <mxPoint x="411" y="620" />
-              <mxPoint x="413" y="620" />
+              <mxPoint x="417" y="218" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -240,10 +236,10 @@
           <mxGeometry x="295" y="640" width="320" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ib2bDxPXk9sH93nM67jP-35" value="&lt;b&gt;Service Resigistry / Service&amp;nbsp; Discovery&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="65" y="730" width="240" height="30" as="geometry" />
+          <mxGeometry x="76" y="720" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ib2bDxPXk9sH93nM67jP-36" value="microservice-springcloud" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="295" y="780" width="320" height="70" as="geometry" />
+          <mxGeometry x="295" y="750" width="320" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ib2bDxPXk9sH93nM67jP-39" value="Peer Aware" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Ib2bDxPXk9sH93nM67jP-36" target="Ib2bDxPXk9sH93nM67jP-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
